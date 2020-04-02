@@ -1,0 +1,22 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API - SSW345 EB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\ Error: no test specified",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "your name",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
